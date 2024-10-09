@@ -13,6 +13,6 @@ If you use this software, please cite the following papers:
 
 2. **User study exploring the role of explanation of failures by robots in human robot collaboration tasks**  
    P. Khanna, E. Yadollahi, M. Björkman, I. Leite, C. Smith, in The Imperfectly Relatable Robot: An interdisciplinary workshop on the role of failure in HRI, ACM/IEEE International Conference on Human-Robot Interaction, Stockholm, Sweden, Mar. 2023.
-   arXiv preprint arXiv:2303.16010, 2023, doi
+   arXiv:2303.16010, 2023
 
 
