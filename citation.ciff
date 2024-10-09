@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following papers."
+authors:
+  - family-names: Khanna
+    given-names: Parag
+  - family-names: Yadollahi
+    given-names: Elmira
+  - family-names: Björkman
+    given-names: Mårten
+  - family-names: Leite
+    given-names: Iolanda
+  - family-names: Smith
+    given-names: Christian
+title: "Effects of Explanation Strategies to Resolve Failures in Human-Robot Collaboration"
+date-released: 2023-09-01
+doi: 10.1109/RO-MAN.2023.10127
+url: https://arxiv.org/abs/2309.10127
+
+references:
+  - authors:
+      - family-names: Khanna
+        given-names: Parag
+      - family-names: Yadollahi
+        given-names: Elmira
+      - family-names: Björkman
+        given-names: Mårten
+      - family-names: Leite
+        given-names: Iolanda
+      - family-names: Smith
+        given-names: Christian
+    title: "User Study Exploring the Role of Explanation of Failures by Robots in Human Robot Collaboration Tasks"
+    date-released: 2023-03-28
+    doi: 10.48550/arXiv.2303.16010
+    url: https://arxiv.org/abs/2303.16010
