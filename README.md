@@ -6,7 +6,7 @@ TBD: Full dataset, More information about the dataset.csv.
 Please email for requesting access to the full datset and for getting more information.
 
 ## Citation
-If you use this software, please cite the following papers:
+If you use this dataset, please cite the following papers:
 
 1. **Effects of Explanation Strategies to Resolve Failures in Human-Robot Collaboration**  
    P. Khanna, E. Yadollahi, M. Björkman, I. Leite, and C. Smith, "Effects of Explanation Strategies to Resolve Failures in Human-Robot Collaboration," in 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Busan, Korea, Republic of, 2023, pp. 1829-1836, doi: 10.1109/RO-MAN57019.2023.10309394.
